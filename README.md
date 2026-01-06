@@ -1,1 +1,2 @@
 # gabriel-store
+index.html
